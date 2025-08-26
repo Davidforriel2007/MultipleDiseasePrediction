@@ -17,6 +17,12 @@ Clone down this repository. You will need `Python 3.7+` and `pip` installed glob
 Installation:
 
 ```bash
+pip install -r requirements.txt
+```
+
+Or install packages individually:
+
+```bash
 pip install streamlit pandas numpy scikit-learn streamlit-option-menu
 ```
 
